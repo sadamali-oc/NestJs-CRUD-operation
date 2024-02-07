@@ -24,7 +24,7 @@ export class Organization{
    address:string;
 
    @Column({length:100})
-   contact_number:string;
+   contact_nor:string;
 
    
 
